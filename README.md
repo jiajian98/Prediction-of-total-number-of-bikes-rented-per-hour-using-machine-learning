@@ -10,9 +10,9 @@ The models were evaluated by evaluating RMSE(Root Mean Squared Error) and R2(Coe
 
 ## Dataset
 The dataset used is bike_sharing.csv, which contains the following features:
-Categorical features: season,year,month,hour,holiday,weekday,workingday,weather situation
-Numerical features: temperature,humidity,windspeed
-Target: count(cnt) - count of the total number of bikes rented
+-Categorical features: season,year,month,hour,holiday,weekday,workingday,weather situation
+-Numerical features: temperature,humidity,windspeed
+-Target: count(cnt) - count of the total number of bikes rented
 
 ## Project Approach
 1. Data preprocessing
